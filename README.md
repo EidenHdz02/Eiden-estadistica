@@ -2,7 +2,7 @@
 objetivo es almacenar el proyecto de trabajo de la clase de principios de estadistica 
 
 semana 1:
-+19/01/2022: clase en linea y presentacion de la clse de estudios.
++ 19/01/2022: clase en linea y presentacion de la clse de estudios.
 
 semana 2:
 + 26/01/2022: primeros pasos en R y Rstudios.
