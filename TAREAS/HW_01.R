@@ -11,7 +11,7 @@ resultado + resultado
 
 altura <- c(1.67, 1.62, 1.62, 1.73, 1.58, 
             1.60, 1.70, 1.52, 1.74, 1.74 )
-alura
+altura
 # dividir cada altura entre 2
 
 res.alt <- altura / 2
