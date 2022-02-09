@@ -11,3 +11,6 @@ semana 2:
 semana 3:
 + 02/02/2022: sala de computo insalar credenciales y proyeto.
 + 03/02/2022: sala de computo. 
+
+semana 4
++ 09/02/2022: sala de computo. 
