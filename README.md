@@ -14,3 +14,7 @@ semana 3:
 
 semana 4
 + 09/02/2022: sala de computo. 
+
+
+semana 5:
+16/02/2022 

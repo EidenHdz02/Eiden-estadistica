@@ -26,17 +26,16 @@ freq.fp/sum(freq.fp)*100
 freq.ps <- table(inventario$Posicion)
 # porcentaje de posicion 
 
-por.pos <- freq.ps/sum(freq.ps)*100
+por.pos <- freq.fp/sum(freq.ps)*100
 
-barplot(freq.sp, col = "red", las =1, border = NA)
+barplot(freq.fp, col = "red", las =1, border = NA)
 barplot(porciento, col = "grey", las =1)
-barplot(freq.ps, las=1, col = "blue", border = NA)
+barplot(freq.fp, las=1, col = "blue", border = NA)
 
-pie(freq.ps, col = topo.colors(4))
-pie(freq.ps col = topo.colors(4), labels= paste(levels(inventario$Posicion), por.pos,  "%")
+pie(freq.fp, col = topo.colors(4))
+pie(freq.fp, col = topo.colors(4), labels= paste(levels(inventario$Posicion), por.pos, "%"))
 
 
-pie(freq.sp, col = topo.colors(3),
-    labels = paste(levels(inventario$Especie)
+pie(freq.sp, col = topo.colors(3), labels = paste(levels(inventario$Especie), freq.sp, "ind"))
 
                    
