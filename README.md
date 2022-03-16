@@ -17,4 +17,8 @@ semana 4
 
 
 semana 5:
-16/02/2022 
+16/02/2022: datos de inventario 
+
+semana 6: 
+23/02/2022: recoleccion de datos semillas de encino 
+24/02/2022: continuacion de datos de semillas
